@@ -12,7 +12,7 @@ I enjoy working with data, experimenting with ML models, and turning ideas into 
 
 **Languages:** Python, C
 
-**AI/ML:** Machine Learning, Data Visualization, XGBoost, LightGBM
+**AI/ML:** Machine Learning, Data Visualization
 
 **AI:** Generative AI, Google ADK
 
