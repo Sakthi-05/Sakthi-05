@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Sakthi Mageswari V 👋
 
-<!--
-**Sakthi-05/Sakthi-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer | Computer Science Engineering Student
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student interested in **Machine Learning, AI, and building practical intelligent solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, experimenting with ML models, and turning ideas into applications that solve real-world problems.
+
+---
+
+### What I Work With
+
+**Languages:** Python, C
+
+**AI/ML:** Machine Learning, Data Visualization, XGBoost, LightGBM
+
+**AI:** Generative AI, Google ADK
+
+**Tools:** Git, GitHub, VS Code
+
+---
+
+### Featured Project
+
+**[Building Energy Consumption Prediction](https://github.com/Sakthi-05/Building_Energy_Consumption_ML)**
+
+A machine learning project using the ASHRAE dataset to predict building energy consumption from weather, building, and time-based features.
+
+**Linear Regression • XGBoost • LightGBM**
+
+---
+
+### Currently Exploring
+
+**AI/ML Engineering · Generative AI · LLM Applications**
+
+---
+
+### Let's Connect
+
+[LinkedIn](https://linkedin.com/in/sakthi-mageswari-v/) · [GitHub](https://github.com/Sakthi-05)
+
+> Building, learning, and experimenting with AI.
